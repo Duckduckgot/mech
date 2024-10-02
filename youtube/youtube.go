@@ -1,7 +1,7 @@
 package youtube
 
 import (
-   "github.com/89z/rosso/http"
+   "github.com/Duckduckgot/rosso/http"
    "net/url"
    "path"
    "strings"
