@@ -2,8 +2,8 @@ package main
 
 import (
    "flag"
-   "github.com/89z/mech"
-   "github.com/89z/mech/roku"
+   "github.com/Duckduckgot/mech"
+   "github.com/Duckduckgot/mech/roku"
    "os"
    "path/filepath"
 )
