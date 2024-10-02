@@ -3,8 +3,8 @@ package apple
 import (
    "bytes"
    "encoding/json"
-   "github.com/89z/rosso/http"
-   "github.com/89z/rosso/xml"
+   "github.com/Duckduckgot/rosso/http"
+   "github.com/Duckduckgot/rosso/xml"
    "io"
    "net/url"
    "os"
