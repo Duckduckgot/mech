@@ -1,5 +1,5 @@
-github.com/89z/rosso v1.50.1 h1:HZ47BMmlWs2zYWlJyDKht7oqk1r93RhL2nKst82bN4I=
-github.com/89z/rosso v1.50.1/go.mod h1:Vq1gb9NE9yac5E1Lu4uCWpOcBxvsqkR6h5LQFlgZ4oo=
+github.com/Duckduckgot/rosso v1.50.1 h1:HZ47BMmlWs2zYWlJyDKht7oqk1r93RhL2nKst82bN4I=
+github.com/Duckduckgot/rosso v1.50.1/go.mod h1:Vq1gb9NE9yac5E1Lu4uCWpOcBxvsqkR6h5LQFlgZ4oo=
 github.com/chmike/cmac-go v1.1.0 h1:aF73ZAEx9N2WdQc93DOJ2fMsBDAGqUtuenjMJMb3kEI=
 github.com/chmike/cmac-go v1.1.0/go.mod h1:wcIN7NRqWSKGuORzd4dReBkoBDE9ZBqfyTVxyDxGeUw=
 github.com/edgeware/mp4ff v0.30.1 h1:OV88fQrw8sFPjTCFThsBwubjYPHTdHgb28pSd1y9ozk=
