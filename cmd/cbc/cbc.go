@@ -1,8 +1,8 @@
 package main
 
 import (
-   "github.com/89z/mech/cbc"
-   "github.com/89z/rosso/hls"
+   "github.com/Duckduckgot/mech/cbc"
+   "github.com/Duckduckgot/rosso/hls"
    "os"
 )
 
