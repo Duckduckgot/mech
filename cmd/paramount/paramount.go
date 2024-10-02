@@ -1,9 +1,9 @@
 package main
 
 import (
-   "github.com/89z/mech/paramount"
-   "github.com/89z/rosso/dash"
-   "github.com/89z/rosso/hls"
+   "github.com/Duckduckgot/mech/paramount"
+   "github.com/Duckduckgot/rosso/dash"
+   "github.com/Duckduckgot/rosso/hls"
    "strings"
 )
 
