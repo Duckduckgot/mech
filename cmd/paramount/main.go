@@ -2,9 +2,9 @@ package main
 
 import (
    "flag"
-   "github.com/89z/mech"
-   "github.com/89z/mech/paramount"
-   "github.com/89z/mech/widevine"
+   "github.com/Duckduckgot/mech"
+   "github.com/Duckduckgot/mech/paramount"
+   "github.com/Duckduckgot/mech/widevine"
    "os"
    "path/filepath"
 )
