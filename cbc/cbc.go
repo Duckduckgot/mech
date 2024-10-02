@@ -3,7 +3,7 @@ package cbc
 import (
    "encoding/json"
    "errors"
-   "github.com/89z/rosso/http"
+   "github.com/Duckduckgot/rosso/http"
    "strings"
    "time"
 )
