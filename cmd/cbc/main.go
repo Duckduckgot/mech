@@ -2,7 +2,7 @@ package main
 
 import (
    "flag"
-   "github.com/89z/mech"
+   "github.com/Duckduckgot/mech"
 )
 
 type flags struct {
