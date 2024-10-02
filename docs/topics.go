@@ -9,7 +9,7 @@ import (
    "os"
 )
 
-const topics = "https://api.github.com/repos/89z/mech/topics"
+const topics = "https://api.github.com/repos/Duckduckgot/mech/topics"
 
 var names = []string{
    "youtube",
