@@ -6,8 +6,8 @@ import (
    "encoding/base64"
    "encoding/hex"
    "encoding/pem"
-   "github.com/89z/rosso/http"
-   "github.com/89z/rosso/protobuf"
+   "github.com/Duckduckgot/rosso/http"
+   "github.com/Duckduckgot/rosso/protobuf"
    "strings"
 )
 
