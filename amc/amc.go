@@ -3,7 +3,7 @@ package amc
 import (
    "bytes"
    "encoding/json"
-   "github.com/89z/rosso/http"
+   "github.com/Duckduckgot/rosso/http"
    "os"
    "strconv"
    "strings"
