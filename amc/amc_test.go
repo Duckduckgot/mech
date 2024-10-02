@@ -1,7 +1,7 @@
 package amc
 
 import (
-   "github.com/89z/mech/widevine"
+   "github.com/Duckduckgot/mech/widevine"
    "os"
    "testing"
 )
