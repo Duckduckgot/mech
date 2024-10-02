@@ -2,7 +2,7 @@ package main
 
 import (
    "flag"
-   "github.com/89z/mech/youtube"
+   "github.com/Duckduckgot/mech/youtube"
    "strings"
 )
 
