@@ -2,7 +2,7 @@ package main
 
 import (
    "fmt"
-   "github.com/89z/mech/soundcloud"
+   "github.com/Duckduckgot/mech/soundcloud"
    "net/http"
    "os"
 )
