@@ -1,8 +1,8 @@
 package main
 
 import (
-   "github.com/89z/mech"
-   "github.com/89z/mech/nbc"
+   "github.com/Duckduckgot/mech"
+   "github.com/Duckduckgot/mech/nbc"
 )
 
 type flags struct {
