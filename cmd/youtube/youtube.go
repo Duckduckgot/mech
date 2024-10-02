@@ -2,8 +2,8 @@ package main
 
 import (
    "fmt"
-   "github.com/89z/mech"
-   "github.com/89z/mech/youtube"
+   "github.com/Duckduckgot/mech"
+   "github.com/Duckduckgot/mech/youtube"
    "os"
 )
 
