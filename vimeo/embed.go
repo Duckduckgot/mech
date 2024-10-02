@@ -1,7 +1,7 @@
 package vimeo
 
 import (
-   "github.com/89z/rosso/json"
+   "github.com/Duckduckgot/rosso/json"
    "io"
    "strconv"
    "strings"
