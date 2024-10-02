@@ -2,7 +2,7 @@ package vimeo
 
 import (
    "encoding/json"
-   "github.com/89z/rosso/http"
+   "github.com/Duckduckgot/rosso/http"
    "net/url"
    "strconv"
    "strings"
