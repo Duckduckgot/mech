@@ -1,7 +1,7 @@
 package youtube
 
 import (
-   "github.com/89z/rosso/protobuf"
+   "github.com/Duckduckgot/rosso/protobuf"
 )
 
 var Duration = map[string]uint64{
