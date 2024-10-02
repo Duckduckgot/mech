@@ -1,8 +1,8 @@
 package main
 
 import (
-   "github.com/89z/mech/roku"
-   "github.com/89z/rosso/dash"
+   "github.com/Duckduckgot/mech/roku"
+   "github.com/Duckduckgot/rosso/dash"
    "strings"
 )
 
