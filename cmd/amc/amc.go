@@ -1,7 +1,7 @@
 package main
 
 import (
-   "github.com/89z/mech/amc"
+   "github.com/Duckduckgot/mech/amc"
    "os"
 )
 
