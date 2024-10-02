@@ -2,7 +2,7 @@ package main
 
 import (
    "flag"
-   "github.com/89z/mech/nbc"
+   "github.com/Duckduckgot/mech/nbc"
 )
 
 func main() {
