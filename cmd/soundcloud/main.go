@@ -3,7 +3,7 @@ package main
 import (
    "flag"
    "fmt"
-   "github.com/89z/mech/soundcloud"
+   "github.com/Duckduckgot/mech/soundcloud"
    "time"
 )
 
